@@ -15,7 +15,7 @@ const featuredProjects = [
     description: "A complete modular system with booking, reviews, analytics, and responsive UI built with Angular 17.",
     tech: ["Angular 17", "SCSS", "ngx-stripe", "ng2-charts", "ngx-toastr"],
     image: hotelProject,
-    demo: "https://ahmedghanem7777.github.io/Hotel-System",
+    demo: "https://hotel-system-pamd.vercel.app/",
     repo: "https://github.com/AhmedGhanem7777/HotelSystem",
   },
   {
