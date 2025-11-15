@@ -23,7 +23,7 @@ const featuredProjects = [
     description: "A dynamic, secure, and mobile-first e-commerce application with JWT authentication and lazy loading.",
     tech: ["Angular 17", "SCSS", "JWT Auth", "Lazy Loading", "ngx-toastr"],
     image: freshcartProject,
-    demo: "https://ahmedghanem7777.github.io/Fresh-Cart",
+    demo: "https://fresh-cart-r6dn.vercel.app/",
     repo: "https://github.com/AhmedGhanem7777/FreshCart",
   },
 ];
